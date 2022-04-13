@@ -1,6 +1,7 @@
 import math
 import numpy as np
 import matplotlib.pyplot as plt
+import plotly
 
 # define the functions to have a compact notation
 from math import pi, cos, sin, tan, pow, sqrt, acos, atan
