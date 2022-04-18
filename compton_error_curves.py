@@ -21,8 +21,9 @@ mec2 = 0.511e6  # Energy of electron mass at rest
 theta = pi / 4  # the co-latitude, in radiant
 phi = pi / 5  # the longitude, in radiant
 
-# energies
-E1 = 1e6  # in EV
+# energies and errors
+sigmaE1 =
+E1 = 1e6 +  # in EV
 E2 = 1e6  # in EV
 
 # locations
